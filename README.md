@@ -5,6 +5,11 @@
 A Swift-based project implementing a modular video fetching and downloading framework using **MVVM** and **Clean Architecture**. The app leverages modern networking techniques, asynchronous programming, and dependency management. With a user-friendly interface built on Texture (AsyncDisplayKit) and SnapKit for layout management, this project follows **SOLID principles** to ensure scalability and testability.
 
 ---
+## Video
+
+
+https://github.com/user-attachments/assets/c96331ad-fe11-4c1d-b4fe-456c0aba5f20
+
 
 ## Features
 
